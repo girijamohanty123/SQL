@@ -1,1 +1,1 @@
-
+create Table mytable;
